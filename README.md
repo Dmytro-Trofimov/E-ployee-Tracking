@@ -16,4 +16,5 @@ Thymeleaf: A templating framework for creating web pages.
 MySQL: Database for storing information about employees and managers.
 
 Author
+
 Trofimov Dmytro
